@@ -1,0 +1,37 @@
+*{
+    background-color: #121212;
+    box-sizing: border-box;
+}
+body{
+    background-color: #121212;
+
+}
+.container{
+    background-color: #121212;
+
+}
+h1{
+    color: #e0e0e0;
+    font-style: italic;
+    letter-spacing: 2px;
+
+}
+label{
+    color: #e0e0e0;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+::placeholder{
+    font-size: 1.1rem;
+    color: #e0e0e0;
+}
+
+.btn-secondary{
+    width: 45px;
+    height: 45px;
+}
+.inputs{
+    width: 300px;
+    background-color: gray;
+    padding: 5px;
+}
